@@ -46,7 +46,7 @@
       </a>
       <a href="https://thamimk.github.io/" target="_blank">
         <figure>
-          <img src="images/Thamsanqa.jpg" alt="Thamsanqa" />
+          <img src="images/Thami.jpg" alt="Thamsanqa" />
           <figcaption>Thamsanqa</figcaption>
         </figure>
       </a>
